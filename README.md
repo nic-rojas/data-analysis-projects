@@ -16,3 +16,4 @@ Se utilizó Google Colab, Python, pandas y matplotlib para:
 
 ## Resultados
 El análisis muestra que la categoría *Arriendo* representa la mayor parte de los gastos mensuales.
+![Gráfico de gastos](grafico_gastos.png)
