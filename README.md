@@ -17,3 +17,14 @@ Se utilizó Google Colab, Python, pandas y matplotlib para:
 ## Resultados
 El análisis muestra que la categoría *Arriendo* representa la mayor parte de los gastos mensuales.
 ![Gráfico de gastos](grafico_gastos.png)
+
+## 🛠️ Tecnologías utilizadas
+- Python 3
+- Pandas
+- Matplotlib
+- Google Colab
+
+## 📂 Estructura del repositorio
+- `analisis_gastos.ipynb` → Notebook con el código
+- `grafico_gastos.png` → Gráfico de ejemplo
+- `README.md` → Documentación del proyecto
