@@ -1,30 +1,39 @@
+# 📊 Expenses Data Analysis
 
-# Análisis de gastos personales (Python)
+Mini-proyecto de **análisis de gastos personales** usando **Python**, **pandas** y **matplotlib**.  
+Este proyecto tiene como objetivo organizar, analizar y visualizar datos de gastos para identificar patrones de consumo.
 
-Este proyecto es un ejercicio introductorio de análisis de datos.  
-Se utilizó Google Colab, Python, pandas y matplotlib para:
+---
 
-- Crear un conjunto de datos simple de gastos.
-- Calcular métricas descriptivas (total, promedio, máximo, mínimo).
-- Visualizar los resultados en un gráfico de barras.
+## 🚀 Características
 
-## Tecnologías
-- Python 3
-- Pandas
-- Matplotlib
-- Google Colab
+- Limpieza y análisis de datos financieros personales.  
+- Uso de **pandas** para manipulación de datos.  
+- Visualizaciones con **matplotlib** para entender mejor los patrones de gasto.  
+- Incluye un **notebook interactivo** (`.ipynb`) para ejecutar el análisis paso a paso.  
 
-## Resultados
-El análisis muestra que la categoría *Arriendo* representa la mayor parte de los gastos mensuales.
-![Gráfico de gastos](grafico_gastos.png)
-
-## 🛠️ Tecnologías utilizadas
-- Python 3
-- Pandas
-- Matplotlib
-- Google Colab
+---
 
 ## 📂 Estructura del repositorio
-- `analisis_gastos.ipynb` → Notebook con el código
-- `grafico_gastos.png` → Gráfico de ejemplo
-- `README.md` → Documentación del proyecto
+
+┣ 📜 analisis_de_gastos_personales.ipynb # Notebook principal
+
+┣ 📜 grafico_gastos.png # Ejemplo de visualización
+
+┣ 📜 requirements.txt # Dependencias del proyecto
+
+┣ 📜 LICENSE # Licencia MIT
+
+┗ 📜 README.md # Documentación del proyecto
+
+
+---
+
+## 🛠️ Instalación y uso
+
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/nic-rojas/expenses-data-analysis.git
+   cd expenses-data-analysis
+
+
